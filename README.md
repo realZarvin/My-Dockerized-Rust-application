@@ -1,6 +1,6 @@
 # My Rust Web App with Actix-Web and Docker
 
-Welcome to the **Rust Web App** repository! This is a simple yet powerful web application built with Rust using the Actix-Web framework and containerized using Docker. Perfect for learning, experimenting, or just having fun with Rust and Docker!
+Welcome to My **Rust Web App** repository! This is a simple yet powerful web application built with Rust using the Actix-Web framework and containerized using Docker. Perfect for learning, experimenting, or just having fun with Rust and Docker!
 
 ## Features
 
@@ -84,7 +84,7 @@ Our Dockerfile defines the environment for our Rust application. It includes a m
 
 This Docker Compose file makes it easy to manage our services. Right now, we just have one service for our web app, but you can easily extend this to include databases, caching servers, etc.
 
-## 📚 Learn More
+## Learn More
 
 - [Actix-Web Documentation](https://actix.rs/docs/)
 - [Rust Programming Language](https://www.rust-lang.org/)
@@ -100,7 +100,7 @@ This Docker Compose file makes it easy to manage our services. Right now, we jus
 
 This project is licensed under the MIT License. Feel free to use, modify, and distribute it as you see fit.
 
-## 📬 Contact
+##  Contact
 
 If you have any questions, feel free to reach out:
 
